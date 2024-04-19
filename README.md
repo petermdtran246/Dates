@@ -10,7 +10,12 @@ To use this script, simply run it in your terminal or command prompt. You will b
 
 ## Features
 -Reads and sorts four dates in the format yyyy-mm-dd
+
 -Calculates the number of days between the last two dates
+
 -Adds three weeks to the most recent date
+
 -Formats the earliest date in the format mmm dd, yyyy
+
 -Prints the full name of the day of the week for the earliest date
+
